@@ -1,0 +1,6 @@
+{
+"parent": "minecraft:item/generated",
+        "textures": {
+          "layer0": "danipracticemod:item/raw_bismuth"
+        }
+}
